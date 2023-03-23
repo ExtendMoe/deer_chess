@@ -16,7 +16,7 @@ DOG = 'dog'
 EMPTY = 'empty'
 INVALID = 'invalid'
 
-# Game mode
+# Game modes
 PVP = 'pvp'
 PLAY_DEER = 'play deer'
 PLAY_DOG = 'play dog'
