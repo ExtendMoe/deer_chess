@@ -16,6 +16,14 @@ Execute the following command:
 python3 main.py
 ```
 
+# Play Chess
+
+1. Choose your game mode
+2. Click **New game**
+3. When it is your turn, make your move by clicking the grid
+
+*It will block the main thread when AI tries to make a move, which may cause some unpleasant behavior of the script, such as getting stuck.*
+
 # Modify the Behavior of AI
 
 Edit **file** ```godeer.py``` **class** ```AutoChess``` **method** ```get_next_move```.
